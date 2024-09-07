@@ -4,12 +4,7 @@ This repository contains my personal configuration files (dotfiles) for various 
 
 ## Contents
 
-- **.bashrc**: Configuration file for the Bash shell.
-- **.vimrc**: Configuration file for Vim.
-- **.gitconfig**: Global Git configuration settings.
-- **.tmux.conf**: Configuration file for tmux.
 - **.zshrc**: Configuration file for Zsh shell.
-- **.aliases**: Custom command aliases for the shell.
 
 ## Installation
 
