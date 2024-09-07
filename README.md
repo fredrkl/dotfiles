@@ -2,6 +2,13 @@
 
 This repository contains my personal configuration files (dotfiles) for various tools and applications. These dotfiles help to set up a consistent development environment across different machines.
 
+## Dependencies
+
+The config file will setup completions and PATH exports for the following tools:
+
+- Dotnet SDK
+- Nodejs 20 (Installed via Homebrew)
+
 ## Contents
 
 - **.zshrc**: Configuration file for Zsh shell.
