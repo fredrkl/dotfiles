@@ -1,0 +1,11 @@
+[user]
+	name = Fredrik Klingenberg
+	email = fredrkl@gmail.com
+[init]
+	defaultBranch = main
+[alias]
+	st = status
+  ls = log --oneline --graph --decorate --all
+	ci = commit -s -S
+[core]
+	editor = vim

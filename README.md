@@ -12,6 +12,7 @@ The config file will setup completions and PATH exports for the following tools:
 ## Contents
 
 - **.zshrc**: Configuration file for Zsh shell.
+- **.gitconfig**: Configuration file for Git.
 
 ## Installation
 
@@ -34,7 +35,11 @@ To set up these dotfiles on your machine, follow these steps:
 
 ## Customization
 
-Feel free to customize these dotfiles to suit your preferences. Each file is well-commented to help you understand the purpose of each setting.
+Remember to add the gpg signing key to the gitconfig file:
+
+```sh
+git config --global user.signingkey <key>
+```
 
 ## Contributing
 
