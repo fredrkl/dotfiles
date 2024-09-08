@@ -13,6 +13,7 @@ The config file will setup completions and PATH exports for the following tools:
 
 - **.zshrc**: Configuration file for Zsh shell.
 - **.gitconfig**: Configuration file for Git.
+- **.tmux.conf**: Configuration file for Tmux.
 
 ## Installation
 
@@ -45,6 +46,20 @@ Remember to add the gpg signing key to the gitconfig file:
 
 ```sh
 git config --global user.signingkey <key>
+```
+
+### Setting up Tmux
+
+Run the following:
+
+```
+git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm 
+```
+
+When you start tmux, press ```prefix + I``` to install all the plugins. Which in my setup is:
+
+```
+ctrl + a + i
 ```
 
 ## Contributing
