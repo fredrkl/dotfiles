@@ -33,7 +33,13 @@ To set up these dotfiles on your machine, follow these steps:
    ./setup.sh
    ```
 
-## Customization
+### Adding gpg signing key
+
+The repo contains a [git hook script](./.gitattributes) to remove the gpg signing key from the gitconfig file before commit. To add the gpg signing key to the gitconfig file, run the following commands:
+
+```sh
+gpg --list-keys --keyid-format LONG
+```
 
 Remember to add the gpg signing key to the gitconfig file:
 

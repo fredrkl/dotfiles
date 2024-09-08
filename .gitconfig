@@ -4,8 +4,8 @@
 [init]
 	defaultBranch = main
 [alias]
-	st = status
+  st = status
   ls = log --oneline --graph --decorate --all
-	ci = commit -s -S
+  ci = commit -s -S
 [core]
-	editor = vim
+  editor = vim
