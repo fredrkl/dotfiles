@@ -14,6 +14,7 @@ The config file will setup completions and PATH exports for the following tools:
 - **.zshrc**: Configuration file for Zsh shell.
 - **.gitconfig**: Configuration file for Git.
 - **.tmux.conf**: Configuration file for Tmux.
+- **.vimrc**: Configuration file for Vim.
 
 ## Installation
 
