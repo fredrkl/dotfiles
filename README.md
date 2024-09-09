@@ -60,7 +60,7 @@ git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 When you start tmux, press ```prefix + I``` to install all the plugins. Which in my setup is:
 
 ```
-ctrl + a + i
+ctrl + a + I
 ```
 
 ## Contributing
