@@ -135,3 +135,4 @@ source <(glab completion -s zsh); compdef _glab glab
 source <(fzf --zsh)
 GITLAB_HOST=gitlab.flytoget.no
 alias gl=glab
+export EDITOR=vim
