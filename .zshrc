@@ -136,3 +136,6 @@ source <(fzf --zsh)
 GITLAB_HOST=gitlab.flytoget.no
 alias gl=glab
 export EDITOR=vim
+
+# This is the path to the dotnet CLI tools installed by running `dotnet tool install -g csharp-ls
+export PATH="$PATH:$HOME/.dotnet/tools"
