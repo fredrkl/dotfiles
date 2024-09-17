@@ -139,3 +139,4 @@ export EDITOR=vim
 
 # This is the path to the dotnet CLI tools installed by running `dotnet tool install -g csharp-ls
 export PATH="$PATH:$HOME/.dotnet/tools"
+export PATH="$PATH:/usr/local/bin/netcoredbg"
