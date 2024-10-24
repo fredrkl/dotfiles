@@ -140,3 +140,15 @@ export EDITOR=vim
 # This is the path to the dotnet CLI tools installed by running `dotnet tool install -g csharp-ls
 export PATH="$PATH:$HOME/.dotnet/tools"
 export PATH="$PATH:/usr/local/bin/netcoredbg"
+
+# Alias for kubectl
+alias k=kubectl
+
+# Source kubectl completion script
+source <(kubectl completion zsh)
+
+# Link kubectl completion to the alias
+compdef k=kubectl
+
+# Krew
+export PATH="${KREW_ROOT:-$HOME/.krew}/bin:$PATH"
