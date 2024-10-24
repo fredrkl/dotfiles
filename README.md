@@ -7,7 +7,8 @@ This repository contains my personal configuration files (dotfiles) for various 
 The config file will setup completions and PATH exports for the following tools:
 
 - Dotnet SDK
-- Nodejs 20 (Installed via Homebrew)
+- Homebrew
+- zsh
 
 ## Contents
 
