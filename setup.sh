@@ -2,6 +2,8 @@ brew install node
 brew install kubectl
 brew install glab
 brew install gh
+brew install fzf
+brew install kubectx
 (
   set -x; cd "$(mktemp -d)" &&
   OS="$(uname | tr '[:upper:]' '[:lower:]')" &&
