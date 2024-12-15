@@ -1,5 +1,6 @@
 brew install node
 brew install kubectl
+brew install helm
 brew install glab
 brew install gh
 brew install fzf
