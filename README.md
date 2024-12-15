@@ -36,6 +36,8 @@ To set up these dotfiles on your machine, follow these steps:
    ./setup.sh
    ```
 
+> ⚠️ **Warning:** You might need to run the script multiple times to ensure _kubectl_ picks up _krew_.
+
 ### Adding gpg signing key
 
 The repo contains a [git hook script](./.gitattributes) to remove the gpg signing key from the gitconfig file before commit. To add the gpg signing key to the gitconfig file, run the following commands:
