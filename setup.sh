@@ -1,4 +1,5 @@
 brew install node
+brew install watch
 brew install kubectl
 brew install helm
 brew install glab
