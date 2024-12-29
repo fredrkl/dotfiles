@@ -1,0 +1,9 @@
+{
+  "branches": ["main"],
+  "plugins": [
+    "semantic-release-gitmoji",
+    "@semantic-release/changelog",
+    "@semantic-release/github",
+    "@semantic-release/git"
+  ]
+}
