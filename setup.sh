@@ -1,5 +1,6 @@
 brew install node
 brew install watch
+brew install tree
 brew install argocd
 brew install marp-cli
 brew install kubectl
