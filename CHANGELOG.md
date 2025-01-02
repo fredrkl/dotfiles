@@ -1,3 +1,9 @@
+# [v1.1.0](https://github.com/fredrkl/dotfiles/compare/v1.0.0...v1.1.0) (2024-12-29)
+
+## ✨ New Features
+- [`3413a68`](https://github.com/fredrkl/dotfiles/commit/3413a68)  Marp cli 
+- [`5d466a6`](https://github.com/fredrkl/dotfiles/commit/5d466a6)  Argo cd
+
 # v1.0.0 (2024-12-29)
 
 ## ✨ New Features
