@@ -1,3 +1,8 @@
+# [v1.2.0](https://github.com/fredrkl/dotfiles/compare/v1.1.0...v1.2.0) (2025-01-02)
+
+## ✨ New Features
+- [`b8d049f`](https://github.com/fredrkl/dotfiles/commit/b8d049f)  Tree cli
+
 # [v1.1.0](https://github.com/fredrkl/dotfiles/compare/v1.0.0...v1.1.0) (2024-12-29)
 
 ## ✨ New Features
