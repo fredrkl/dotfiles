@@ -1,3 +1,8 @@
+# [v1.3.0](https://github.com/fredrkl/dotfiles/compare/v1.2.0...v1.3.0) (2025-01-08)
+
+## ✨ New Features
+- [`882c2d3`](https://github.com/fredrkl/dotfiles/commit/882c2d3)  Ipcalc
+
 # [v1.2.0](https://github.com/fredrkl/dotfiles/compare/v1.1.0...v1.2.0) (2025-01-02)
 
 ## ✨ New Features
