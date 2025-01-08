@@ -1,3 +1,4 @@
+brew install ipcalc
 brew install node
 brew install watch
 brew install tree
