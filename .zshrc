@@ -155,3 +155,4 @@ export PATH="${KREW_ROOT:-$HOME/.krew}/bin:$PATH"
 
 alias kx='kubectx'
 alias kns='kubens'
+alias tf='terraform'
