@@ -1,3 +1,8 @@
+# [v1.4.0](https://github.com/fredrkl/dotfiles/compare/v1.3.0...v1.4.0) (2025-01-21)
+
+## ✨ New Features
+- [`f266f4c`](https://github.com/fredrkl/dotfiles/commit/f266f4c)  Terraform
+
 # [v1.3.0](https://github.com/fredrkl/dotfiles/compare/v1.2.0...v1.3.0) (2025-01-08)
 
 ## ✨ New Features
