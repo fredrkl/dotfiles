@@ -1,5 +1,6 @@
 brew tap hashicorp/tap
 brew install hashicorp/tap/terraform
+brew install openshift-cli
 brew install pre-commit
 brew install ipcalc
 brew install node
