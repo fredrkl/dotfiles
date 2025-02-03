@@ -1,3 +1,8 @@
+# [v1.6.0](https://github.com/fredrkl/dotfiles/compare/v1.5.0...v1.6.0) (2025-02-03)
+
+## ✨ New Features
+- [`eff4b93`](https://github.com/fredrkl/dotfiles/commit/eff4b93)  Open shift cli
+
 # [v1.5.0](https://github.com/fredrkl/dotfiles/compare/v1.4.0...v1.5.0) (2025-01-21)
 
 ## ✨ New Features
