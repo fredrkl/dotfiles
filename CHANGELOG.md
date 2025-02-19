@@ -1,3 +1,8 @@
+# [v1.7.0](https://github.com/fredrkl/dotfiles/compare/v1.6.0...v1.7.0) (2025-02-19)
+
+## ✨ New Features
+- [`4c8c840`](https://github.com/fredrkl/dotfiles/commit/4c8c840)  Kind cli
+
 # [v1.6.0](https://github.com/fredrkl/dotfiles/compare/v1.5.0...v1.6.0) (2025-02-03)
 
 ## ✨ New Features
