@@ -1,3 +1,8 @@
+# [v1.8.0](https://github.com/fredrkl/dotfiles/compare/v1.7.0...v1.8.0) (2025-02-23)
+
+## ✨ New Features
+- [`4c9c91a`](https://github.com/fredrkl/dotfiles/commit/4c9c91a)  Kustomize
+
 # [v1.7.0](https://github.com/fredrkl/dotfiles/compare/v1.6.0...v1.7.0) (2025-02-19)
 
 ## ✨ New Features
