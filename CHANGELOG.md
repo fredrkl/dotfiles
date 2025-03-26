@@ -1,3 +1,8 @@
+# [v1.9.0](https://github.com/fredrkl/dotfiles/compare/v1.8.0...v1.9.0) (2025-03-26)
+
+## ✨ New Features
+- [`d8d5bae`](https://github.com/fredrkl/dotfiles/commit/d8d5bae)  Dotenv
+
 # [v1.8.0](https://github.com/fredrkl/dotfiles/compare/v1.7.0...v1.8.0) (2025-02-23)
 
 ## ✨ New Features
