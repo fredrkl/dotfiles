@@ -1,3 +1,4 @@
+brew install direnv
 brew install node
 brew install watch
 brew install tree
