@@ -1,4 +1,11 @@
 brew install direnv
+brew install kustomize
+brew install kind
+brew tap hashicorp/tap
+brew install hashicorp/tap/terraform
+brew install openshift-cli
+brew install pre-commit
+brew install ipcalc
 brew install node
 brew install watch
 brew install tree

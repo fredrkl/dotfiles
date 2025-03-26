@@ -1,3 +1,33 @@
+# [v1.8.0](https://github.com/fredrkl/dotfiles/compare/v1.7.0...v1.8.0) (2025-02-23)
+
+## ✨ New Features
+- [`4c9c91a`](https://github.com/fredrkl/dotfiles/commit/4c9c91a)  Kustomize
+
+# [v1.7.0](https://github.com/fredrkl/dotfiles/compare/v1.6.0...v1.7.0) (2025-02-19)
+
+## ✨ New Features
+- [`4c8c840`](https://github.com/fredrkl/dotfiles/commit/4c8c840)  Kind cli
+
+# [v1.6.0](https://github.com/fredrkl/dotfiles/compare/v1.5.0...v1.6.0) (2025-02-03)
+
+## ✨ New Features
+- [`eff4b93`](https://github.com/fredrkl/dotfiles/commit/eff4b93)  Open shift cli
+
+# [v1.5.0](https://github.com/fredrkl/dotfiles/compare/v1.4.0...v1.5.0) (2025-01-21)
+
+## ✨ New Features
+- [`4ff8b4c`](https://github.com/fredrkl/dotfiles/commit/4ff8b4c)  Pre-commit
+
+# [v1.4.0](https://github.com/fredrkl/dotfiles/compare/v1.3.0...v1.4.0) (2025-01-21)
+
+## ✨ New Features
+- [`f266f4c`](https://github.com/fredrkl/dotfiles/commit/f266f4c)  Terraform
+
+# [v1.3.0](https://github.com/fredrkl/dotfiles/compare/v1.2.0...v1.3.0) (2025-01-08)
+
+## ✨ New Features
+- [`882c2d3`](https://github.com/fredrkl/dotfiles/commit/882c2d3)  Ipcalc
+
 # [v1.2.0](https://github.com/fredrkl/dotfiles/compare/v1.1.0...v1.2.0) (2025-01-02)
 
 ## ✨ New Features
