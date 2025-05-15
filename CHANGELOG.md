@@ -1,3 +1,8 @@
+# [v1.10.0](https://github.com/fredrkl/dotfiles/compare/v1.9.0...v1.10.0) (2025-05-15)
+
+## ✨ New Features
+- [`4f42c9f`](https://github.com/fredrkl/dotfiles/commit/4f42c9f)  Added kubelogin
+
 # [v1.9.0](https://github.com/fredrkl/dotfiles/compare/v1.8.0...v1.9.0) (2025-03-26)
 
 ## ✨ New Features
