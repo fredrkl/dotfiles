@@ -1,3 +1,8 @@
+# [v1.12.0](https://github.com/fredrkl/dotfiles/compare/v1.11.0...v1.12.0) (2025-07-07)
+
+## ✨ New Features
+- [`f4fe88a`](https://github.com/fredrkl/dotfiles/commit/f4fe88a)  Markdownlinting
+
 # [v1.11.0](https://github.com/fredrkl/dotfiles/compare/v1.10.0...v1.11.0) (2025-05-18)
 
 ## ✨ New Features
