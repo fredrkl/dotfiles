@@ -153,6 +153,9 @@ compdef k=kubectl
 # Krew
 export PATH="${KREW_ROOT:-$HOME/.krew}/bin:$PATH"
 
+# Ruby
+export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
+
 alias kx='kubectx'
 alias kns='kubens'
 alias tf='terraform'

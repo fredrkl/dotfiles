@@ -1,3 +1,4 @@
+brew install markdownlint-cli2
 brew install Azure/kubelogin/kubelogin
 brew install direnv
 brew install kustomize
