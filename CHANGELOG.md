@@ -1,3 +1,8 @@
+# [v1.13.0](https://github.com/fredrkl/dotfiles/compare/v1.12.0...v1.13.0) (2025-07-17)
+
+## ✨ New Features
+- [`e1d26a2`](https://github.com/fredrkl/dotfiles/commit/e1d26a2)  Ghostty, markdownlint and luacheck
+
 # [v1.12.0](https://github.com/fredrkl/dotfiles/compare/v1.11.0...v1.12.0) (2025-07-07)
 
 ## ✨ New Features
