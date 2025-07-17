@@ -1,6 +1,6 @@
 brew install luacheck
 brew install markdownlint-cli2
-brew install brew install --cask ghostty
+brew install --cask ghostty
 brew install Azure/kubelogin/kubelogin
 brew install direnv
 brew install kustomize
