@@ -1,3 +1,5 @@
+brew install neovim
+brew install yaml-language-server
 brew install luacheck
 brew install markdownlint-cli2
 brew install --cask ghostty
