@@ -1,3 +1,8 @@
+# [v1.13.1](https://github.com/fredrkl/dotfiles/compare/v1.13.0...v1.13.1) (2025-07-17)
+
+## 🐛 Bug Fixes
+- [`039a17e`](https://github.com/fredrkl/dotfiles/commit/039a17e)  Brew install typo
+
 # [v1.13.0](https://github.com/fredrkl/dotfiles/compare/v1.12.0...v1.13.0) (2025-07-17)
 
 ## ✨ New Features
