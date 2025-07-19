@@ -1,3 +1,4 @@
+brew install yamllint
 brew install neovim
 brew install yaml-language-server
 brew install luacheck

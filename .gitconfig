@@ -1,7 +1,6 @@
 [user]
 	name = Fredrik Klingenberg
 	email = fredrkl@gmail.com
-	signingkey = 999393D4206F2A33
 [init]
 	defaultBranch = main
 [alias]
