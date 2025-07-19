@@ -1,3 +1,8 @@
+# [v1.15.0](https://github.com/fredrkl/dotfiles/compare/v1.14.0...v1.15.0) (2025-07-19)
+
+## ✨ New Features
+- [`bb92f4a`](https://github.com/fredrkl/dotfiles/commit/bb92f4a)  Yamllint
+
 # [v1.14.0](https://github.com/fredrkl/dotfiles/compare/v1.13.1...v1.14.0) (2025-07-18)
 
 ## ✨ New Features
