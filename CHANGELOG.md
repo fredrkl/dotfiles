@@ -1,3 +1,8 @@
+# [v1.14.0](https://github.com/fredrkl/dotfiles/compare/v1.13.1...v1.14.0) (2025-07-18)
+
+## ✨ New Features
+- [`91e8736`](https://github.com/fredrkl/dotfiles/commit/91e8736)  Neovim and yaml ls
+
 # [v1.13.1](https://github.com/fredrkl/dotfiles/compare/v1.13.0...v1.13.1) (2025-07-17)
 
 ## 🐛 Bug Fixes
