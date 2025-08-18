@@ -1,3 +1,9 @@
+# [v1.17.0](https://github.com/fredrkl/dotfiles/compare/v1.16.0...v1.17.0) (2025-08-17)
+
+## ✨ New Features
+- [`d24979b`](https://github.com/fredrkl/dotfiles/commit/d24979b)  Renovate 
+- [`abab094`](https://github.com/fredrkl/dotfiles/commit/abab094)  Stern
+
 # [v1.16.0](https://github.com/fredrkl/dotfiles/compare/v1.15.0...v1.16.0) (2025-08-04)
 
 ## ✨ New Features
