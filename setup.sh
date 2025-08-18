@@ -1,3 +1,4 @@
+brew install yq
 brew install renovate
 brew install yamllint
 brew install neovim
