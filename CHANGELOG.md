@@ -1,3 +1,8 @@
+# [v1.18.0](https://github.com/fredrkl/dotfiles/compare/v1.17.0...v1.18.0) (2025-08-18)
+
+## ✨ New Features
+- [`406ceec`](https://github.com/fredrkl/dotfiles/commit/406ceec)  Yq
+
 # [v1.17.0](https://github.com/fredrkl/dotfiles/compare/v1.16.0...v1.17.0) (2025-08-17)
 
 ## ✨ New Features
