@@ -160,3 +160,5 @@ alias kx='kubectx'
 alias kns='kubens'
 alias tf='terraform'
 alias t='tmux'
+
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh

@@ -1,3 +1,5 @@
+brew install anomalyco/tap/opencode
+brew install aiven-client
 brew install stern
 brew install yq
 brew install renovate
