@@ -1,3 +1,8 @@
+# [v1.19.0](https://github.com/fredrkl/dotfiles/compare/v1.18.0...v1.19.0) (2025-11-19)
+
+## ✨ New Features
+- [`9cba5ee`](https://github.com/fredrkl/dotfiles/commit/9cba5ee)  Use true-color 24bit for tmux
+
 # [v1.18.0](https://github.com/fredrkl/dotfiles/compare/v1.17.0...v1.18.0) (2025-08-18)
 
 ## ✨ New Features
