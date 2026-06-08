@@ -156,6 +156,10 @@ export PATH="${KREW_ROOT:-$HOME/.krew}/bin:$PATH"
 # Ruby
 export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
 
+# Java
+export JAVA_HOME="/opt/homebrew/opt/openjdk"
+export PATH="$JAVA_HOME/bin:$PATH"
+
 alias kx='kubectx'
 alias kns='kubens'
 alias tf='terraform'

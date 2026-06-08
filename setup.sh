@@ -1,3 +1,6 @@
+brew install maven
+brew install openjdk@21
+brew install dapr/tap/dapr-cli
 brew install anomalyco/tap/opencode
 brew install aiven-client
 brew install stern
