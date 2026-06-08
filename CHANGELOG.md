@@ -1,3 +1,9 @@
+# [v1.20.0](https://github.com/fredrkl/dotfiles/compare/v1.19.0...v1.20.0) (2026-06-08)
+
+## ✨ New Features
+- [`abe26d9`](https://github.com/fredrkl/dotfiles/commit/abe26d9)  Opencode 
+- [`be4bd3f`](https://github.com/fredrkl/dotfiles/commit/be4bd3f)  Maven and openjdk
+
 # [v1.19.0](https://github.com/fredrkl/dotfiles/compare/v1.18.0...v1.19.0) (2025-11-19)
 
 ## ✨ New Features
