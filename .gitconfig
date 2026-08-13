@@ -8,4 +8,7 @@
   ls = log --oneline --graph --decorate --all
   ci = commit -S
 [core]
-	editor = vim
+  editor = vim
+# Include Thon-specific config for repos under ~/repos/github/thon/
+[includeIf "gitdir:~/repos/github/thon/"]
+  path = ~/.gitconfig-thon
