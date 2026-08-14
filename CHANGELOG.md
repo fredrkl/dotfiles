@@ -1,3 +1,8 @@
+# [v1.21.1](https://github.com/fredrkl/dotfiles/compare/v1.21.0...v1.21.1) (2026-08-14)
+
+## 🐛 Bug Fixes
+- [`d512068`](https://github.com/fredrkl/dotfiles/commit/d512068)  Wrong thon email
+
 # [v1.21.0](https://github.com/fredrkl/dotfiles/compare/v1.20.0...v1.21.0) (2026-08-13)
 
 ## ✨ New Features
