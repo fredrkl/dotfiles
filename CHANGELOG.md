@@ -1,3 +1,9 @@
+# [v1.21.0](https://github.com/fredrkl/dotfiles/compare/v1.20.0...v1.21.0) (2026-08-13)
+
+## ✨ New Features
+- [`ad9351f`](https://github.com/fredrkl/dotfiles/commit/ad9351f)  Thon settings 
+- [`210e17b`](https://github.com/fredrkl/dotfiles/commit/210e17b)  Adding thon
+
 # [v1.20.0](https://github.com/fredrkl/dotfiles/compare/v1.19.0...v1.20.0) (2026-06-08)
 
 ## ✨ New Features
